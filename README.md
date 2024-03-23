@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Facundo</h1>
+<h1 align="center">Hello 👋, I'm Facundo</h1>
 <h3 align="center">A passionate Data Scientist from Argentina</h3>
 
+About me
+° buenas
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/facundo-nicolas-denis-60933b199/](https://www.linkedin.com/in/facundo-nicolas-denis-60933b199/)
 
 - 📫 How to reach me **facundodenis7@gmail.com**
