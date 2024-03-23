@@ -1,9 +1,11 @@
-<h1 align="center">Hello 👋, I'm Facundo</h1>
-<h3 align="center">A passionate Data Scientist from Argentina</h3>
+<h1 align="left">Hello 👋, I'm Facundo</h1>
+<h3 align="left">A passionate Data Scientist from Argentina</h3>
 
-About me
-° buenas
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/facundo-nicolas-denis-60933b199/](https://www.linkedin.com/in/facundo-nicolas-denis-60933b199/)
+<h2 aling="left">About me</h2>
+- I from Argentina
+- I born in 1999
+- I love porgramming and games
+- 👨‍💻 All of my projects are available at [my proyects](https://github.com/Facundo022?tab=repositories)
 
 - 📫 How to reach me **facundodenis7@gmail.com**
 
