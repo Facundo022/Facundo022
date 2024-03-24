@@ -1,6 +1,12 @@
-<h1 align="left">Hello 👋, I'm Facundo</h1>
-<h3 align="left">A passionate Data Scientist from Argentina</h3>
-![github readme perfil](https://github.com/Facundo022/Facundo022/assets/86858441/2f1e8f41-7f23-4839-bc9f-89bbb6bac58d)
+<div>
+  <h1 align="left">Hello, I'm <a href="https://www.linkedin.com/in/facundo-nicolas-denis-60933b199/">Facundo</a> 👋</h1>
+</div>
+<a href= https://github.com/Facundo022>
+<img align="center" alt="GIF" height="360px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGUyZndlczFjaWJ1MW1rZnEyMTgyOGpueDgzODMyam4zcHAwZDhyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YTuj72XShc07jGuREZ/giphy.gif" />
+
+</a>
+
+
 
 <h2 aling="left">About me</h2>
 - I from Argentina
