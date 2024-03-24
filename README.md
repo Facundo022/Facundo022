@@ -53,12 +53,11 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/gmail%20-%20black?logo=gmail"> **facundodenis7@gmail.com**
 <br>
 <a href="https://www.linkedin.com/in/facundo-nicolas-denis-60933b199/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-
-<br><br><br>
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Ivan2125&style=for-the-badge&color=55acb7&label=Views"/>
+<br>
+<div align="right">
+    <img src="https://komarev.com/ghpvc/?username=Facundo022&style=for-the-badge&color=55acb7&label=Views"/>
 </div>
+
 
 
 
