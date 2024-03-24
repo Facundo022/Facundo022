@@ -39,19 +39,13 @@
 ![AWS](https://img.shields.io/badge/AWS%20-%20black?logo=amazonaws&link=https%3A%2F%2Faws.amazon.com%2Fes%2F)
 
 
-<h2 aling="left">About me</h2>
-- I from Argentina
-- I born in 1999
-- I love porgramming and games
-- 👨‍💻 All of my projects are available at [my proyects](https://github.com/Facundo022?tab=repositories)
+### &nbsp;About me
 
-- 📫 How to reach me **facundodenis7@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/fdenis90221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/fdenis90221" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/facundo-denis-60933b199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/facundo-denis-60933b199/" height="30" width="40" /></a>
-</p>
+- 🌎​&nbsp; I from Argentina, I was born in 1999
+- 🎓&nbsp; I graduated from high school electromechanical and data scientist programmer
+- ♟️​&nbsp; I love programming and chess
+- 👨‍💻&nbsp; My most advanced projects are [PI1_MLOps_videojuegos_steam](https://github.com/Facundo022/PI1_MLOps_videojuegos_steam) and [PI2_siniestros_viales](https://github.com/Facundo022/PI2_siniestros_viales)
+- 📫 to contact my email **facundodenis7@gmail.com**
 
 
 
@@ -62,9 +56,7 @@
 
 
 
-
-
-
+comentario 
 
 
 
