@@ -1,5 +1,6 @@
 <h1 align="left">Hello 👋, I'm Facundo</h1>
 <h3 align="left">A passionate Data Scientist from Argentina</h3>
+![github readme perfil](https://github.com/Facundo022/Facundo022/assets/86858441/6e14af7d-c48a-4f8b-92b7-76eb572778f2)
 
 <h2 aling="left">About me</h2>
 - I from Argentina
