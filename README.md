@@ -47,17 +47,13 @@
 - 👨‍💻&nbsp; My most advanced projects are [PI1_MLOps_videojuegos_steam](https://github.com/Facundo022/PI1_MLOps_videojuegos_steam) and [PI2_siniestros_viales](https://github.com/Facundo022/PI2_siniestros_viales)
 
 
-<a href="[https://github.com/AVS1508](https://github.com/Facundo022)">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=SebitaElGordito&theme=dark&show_icons=true&hide_border=true" /> 
-  
-  <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=SebitaElGordito&theme=dark&hide_border=true" />
-   
-  <br>
-  <img height="110em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SebitaElGordito&theme=dark&hide_border=false" />
-  
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebitaElGordito&theme=dark&layout=compact&hide_border=true" />
-</a>
-</p>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Facundo022&theme=dark&hide_border=false" height="187.5"/>
+  <div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Facundo022&theme=dark&hide_border=false" height="153" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Facundo022&theme=dark&hide_border=true" height="153" />
+  </div>
+
 
 ### 🤝🏻 &nbsp;to contact  
 
