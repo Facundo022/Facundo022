@@ -46,6 +46,7 @@
 - ♟️​&nbsp; I love programming and chess
 - 👨‍💻&nbsp; My most advanced projects are [PI1_MLOps_videojuegos_steam](https://github.com/Facundo022/PI1_MLOps_videojuegos_steam) and [PI2_siniestros_viales](https://github.com/Facundo022/PI2_siniestros_viales)
 
+<br>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Facundo022&theme=dark&hide_border=false" height="187.5"/>
