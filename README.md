@@ -44,7 +44,6 @@
 - 🌎​&nbsp; I from Argentina, I was born in 1999
 - 🎓&nbsp; I graduated from high school electromechanical and data scientist programmer
 - ♟️​&nbsp; I love programming and chess
-- 👨‍💻&nbsp; My most advanced projects are [PI1_MLOps_videojuegos_steam](https://github.com/Facundo022/PI1_MLOps_videojuegos_steam) and [PI2_siniestros_viales](https://github.com/Facundo022/PI2_siniestros_viales)
 
 <br>
 
